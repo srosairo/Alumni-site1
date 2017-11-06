@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.bensalumnicanada.ca/index.html</loc>
-    <lastmod>2017-10-18</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/index.html"/>
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/contact-us.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/contact-us.html"/>
@@ -31,17 +31,20 @@
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/about-us.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/about-us.html"/>
     <image:image>
       <image:loc>http://www.bensalumnicanada.ca/images/crest.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.bensalumnicanada.ca/images/pasted%20image%20300x200.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/members.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/members.html"/>
@@ -51,7 +54,7 @@
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/events.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/events.html"/>
@@ -61,13 +64,13 @@
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/tablet/calendar.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/upcoming-events.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/upcoming-events.html"/>
@@ -77,7 +80,7 @@
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/past-events.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/past-events.html"/>
@@ -87,7 +90,7 @@
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/gta-members.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/gta-members.html"/>
@@ -97,7 +100,7 @@
   </url>
   <url>
     <loc>http://www.bensalumnicanada.ca/old-ben-s-worldwide.html</loc>
-    <lastmod>2017-10-17</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bensalumnicanada.ca/tablet/old-ben-s-worldwide.html"/>

@@ -1,90 +1,45 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bensalumnicanada.ca" resolutions="1x" timestamp="1508372337410">
-  <folder name="tablet">
-    <folder name="css">
-      <file name="master_a-master.css" crc="4044013141" ref="tablet>old-ben-s-worldwide:tablet>past-events:tablet>index:tablet>upcoming-events:tablet>members:tablet>events:tablet>gta-members:tablet>calendar:tablet>about-us:tablet>contact-us"/>
-      <file name="old-ben-s-worldwide.css" crc="42637181" ref="tablet>old-ben-s-worldwide"/>
-      <file name="past-events.css" crc="42637181" ref="tablet>past-events"/>
-      <file name="index.css" crc="3864467320" ref="tablet>index"/>
-      <file name="upcoming-events.css" crc="42637181" ref="tablet>upcoming-events"/>
-      <file name="members.css" crc="42637181" ref="tablet>members"/>
-      <file name="events.css" crc="42637181" ref="tablet>events"/>
-      <file name="gta-members.css" crc="42637181" ref="tablet>gta-members"/>
-      <file name="calendar.css" crc="3864467320" ref="tablet>calendar"/>
-      <file name="about-us.css" crc="42637181" ref="tablet>about-us"/>
-      <file name="contact-us.css" crc="42637181" ref="tablet>contact-us"/>
-    </folder>
-    <file name="index.html" crc="515387578" seo="true" mt="1508281234283" redirect="true"/>
-    <file name="calendar.html" crc="497154123" seo="true" mt="1508297622481" redirect="true"/>
-    <file name="about-us.html" crc="123033612" seo="true" mt="1508281234283" redirect="true"/>
-    <file name="events.html" crc="245707701" seo="true" mt="1508281234283" redirect="true"/>
-    <file name="upcoming-events.html" crc="241564509" seo="true" mt="1508281234283" redirect="true"/>
-    <file name="past-events.html" crc="197085320" seo="true" mt="1508281234283" redirect="true"/>
-    <file name="members.html" crc="3851349292" seo="true" mt="1508281234283" redirect="true"/>
-    <file name="gta-members.html" crc="357269733" seo="true" mt="1508281234283" redirect="true"/>
-    <file name="old-ben-s-worldwide.html" crc="3821407257" seo="true" mt="1508281234283" redirect="true"/>
-    <file name="contact-us.html" crc="4185104541" seo="true" mt="1508281234283" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bensalumnicanada.ca" resolutions="1x" timestamp="1509651027688">
   <folder name="css">
-    <file name="site_global.css" crc="122224269"/>
-    <file name="master_a-master.css" crc="42727553" ref="upcoming-events:index:contact-us:past-events:members:events:about-us:gta-members:old-ben-s-worldwide"/>
-    <file name="upcoming-events.css" crc="347553004" ref="upcoming-events"/>
-    <file name="index.css" crc="256885193" ref="index"/>
-    <file name="contact-us.css" crc="4239263718" ref="contact-us"/>
-    <file name="past-events.css" crc="347553004" ref="past-events"/>
-    <file name="members.css" crc="347553004" ref="members"/>
-    <file name="events.css" crc="347553004" ref="events"/>
-    <file name="about-us.css" crc="347553004" ref="about-us"/>
-    <file name="gta-members.css" crc="347553004" ref="gta-members"/>
-    <file name="old-ben-s-worldwide.css" crc="347553004" ref="old-ben-s-worldwide"/>
+    <file name="site_global.css" crc="4146767876"/>
+    <file name="master_a-master.css" crc="3864411248" ref="old-ben-s-worldwide:members:index:contact-us:events:upcoming-events:past-events:gta-members:about-us"/>
+    <file name="old-ben-s-worldwide.css" crc="401787062" ref="old-ben-s-worldwide"/>
+    <file name="iefonts_old-ben-s-worldwide.css" crc="49943844" ref="old-ben-s-worldwide"/>
+    <file name="members.css" crc="401787062" ref="members"/>
+    <file name="iefonts_members.css" crc="49943844" ref="members"/>
+    <file name="index.css" crc="431828537" ref="index"/>
+    <file name="iefonts_index.css" crc="49943844" ref="index"/>
+    <file name="contact-us.css" crc="4222958382" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="4276439018" ref="contact-us"/>
+    <file name="events.css" crc="401787062" ref="events"/>
+    <file name="iefonts_events.css" crc="49943844" ref="events"/>
+    <file name="upcoming-events.css" crc="401787062" ref="upcoming-events"/>
+    <file name="iefonts_upcoming-events.css" crc="49943844" ref="upcoming-events"/>
+    <file name="past-events.css" crc="401787062" ref="past-events"/>
+    <file name="iefonts_past-events.css" crc="49943844" ref="past-events"/>
+    <file name="gta-members.css" crc="401787062" ref="gta-members"/>
+    <file name="iefonts_gta-members.css" crc="49943844" ref="gta-members"/>
+    <file name="about-us.css" crc="4206893402" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="4051305799" ref="about-us"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="museutils.js" crc="17924269" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="museconfig.js" crc="278381782" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="require.js" crc="3861931657" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="contact-us:index:about-us:members:events:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
-    <file name="webpro.js" crc="416662029" ref="contact-us:index"/>
-    <file name="form_check.php" crc="4110044762" ref="contact-us"/>
-    <file name="form_throttle.php" crc="22190333" ref="contact-us"/>
-    <file name="form_process.php" crc="257545537" ref="contact-us"/>
-    <file name="form-u14259.php" crc="4245114299" ref="contact-us"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
-    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="museutils.js" crc="3803043152" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="museconfig.js" crc="4153641093" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="jquery.watch.js" crc="99325471" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="require.js" crc="4157109226" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3876532484" ref="tablet>index:tablet>calendar:index"/>
-    <file name="u407-4.png" crc="4087950522" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide"/>
-    <file name="developed-.jpg" crc="3803964275" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="past-events" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="upcoming-events" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="old-ben-s-worldwide" alt=""/>
-      <caption webpage="gta-members" alt=""/>
-    </file>
-    <file name="crest.jpg" crc="4281640191" seo="true" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide:tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="past-events" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="upcoming-events" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="old-ben-s-worldwide" alt=""/>
-      <caption webpage="gta-members" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
+    <file name="a-master-favicon.ico" crc="3876532484" ref="tablet>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index"/>
     <file name="u11644.png" crc="388710226" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
     <file name="u11644-a.png" crc="365466610" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
     <file name="u11635.png" crc="3917775173" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
@@ -95,9 +50,20 @@
     <file name="u11701-a.png" crc="26001495" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
     <file name="u11723.png" crc="50918014" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
     <file name="u11723-a.png" crc="299149001" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us"/>
-    <file name="developed-1536x907.jpg" crc="3795411496" ref="tablet>index:tablet>calendar">
-      <caption webpage="index" alt=""/>
+    <file name="crest.jpg" crc="4281640191" seo="true" ref="tablet>index:tablet>calendar:tablet>about-us:tablet>events:tablet>upcoming-events:tablet>past-events:tablet>members:tablet>gta-members:tablet>old-ben-s-worldwide:tablet>contact-us:index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide">
+      <caption webpage="old-ben-s-worldwide" alt=""/>
+      <caption webpage="upcoming-events" alt=""/>
       <caption webpage="calendar" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gta-members" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="past-events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="developed-1536x907.jpg" crc="3795411496" ref="tablet>index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="christmasphoto-crop-u19932.jpg" crc="3808811462" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -108,14 +74,53 @@
     <file name="trees-crop-u19940.jpg" crc="4117345137" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="developed-.jpg" crc="307796992" ref="index:about-us:members:events:contact-us:upcoming-events:past-events:gta-members:old-ben-s-worldwide">
+      <caption webpage="gta-members" alt=""/>
+      <caption webpage="upcoming-events" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="past-events" alt=""/>
+      <caption webpage="old-ben-s-worldwide" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pasted image 300x200.jpg" crc="3766926899" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="209661424" seo="true" mt="1508300516804" redirect="true"/>
-  <file name="about-us.html" crc="120114528" seo="true" mt="1508298889301" redirect="true"/>
-  <file name="members.html" crc="126078833" seo="true" mt="1508298889301" redirect="true"/>
-  <file name="events.html" crc="4139091459" seo="true" mt="1508298889301" redirect="true"/>
-  <file name="contact-us.html" crc="3761425267" seo="true" mt="1508298889301" redirect="true"/>
-  <file name="upcoming-events.html" crc="4135458943" seo="true" mt="1508298889301" redirect="true"/>
-  <file name="past-events.html" crc="100925039" seo="true" mt="1508298889301" redirect="true"/>
-  <file name="gta-members.html" crc="54368943" seo="true" mt="1508298889301" redirect="true"/>
-  <file name="old-ben-s-worldwide.html" crc="3818976823" seo="true" mt="1508298889301" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3870879805" ref="tablet>events:tablet>index:tablet>upcoming-events:tablet>past-events:tablet>old-ben-s-worldwide:tablet>members:tablet>calendar:tablet>gta-members:tablet>contact-us:tablet>about-us"/>
+      <file name="events.css" crc="171554846" ref="tablet>events"/>
+      <file name="index.css" crc="3909205535" ref="tablet>index"/>
+      <file name="upcoming-events.css" crc="171554846" ref="tablet>upcoming-events"/>
+      <file name="past-events.css" crc="171554846" ref="tablet>past-events"/>
+      <file name="old-ben-s-worldwide.css" crc="171554846" ref="tablet>old-ben-s-worldwide"/>
+      <file name="members.css" crc="171554846" ref="tablet>members"/>
+      <file name="calendar.css" crc="171554846" ref="tablet>calendar"/>
+      <file name="gta-members.css" crc="171554846" ref="tablet>gta-members"/>
+      <file name="contact-us.css" crc="171554846" ref="tablet>contact-us"/>
+      <file name="about-us.css" crc="171554846" ref="tablet>about-us"/>
+    </folder>
+    <file name="index.html" crc="210757510" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="calendar.html" crc="4186764534" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="about-us.html" crc="44934316" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="events.html" crc="51453586" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="upcoming-events.html" crc="3814050253" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="past-events.html" crc="3888450160" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="members.html" crc="4055156544" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="gta-members.html" crc="329112292" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="old-ben-s-worldwide.html" crc="3800869917" seo="true" mt="1509572285444" redirect="true"/>
+    <file name="contact-us.html" crc="3953544850" seo="true" mt="1509572285444" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="37235027" seo="true" mt="1509590147778" redirect="true"/>
+  <file name="about-us.html" crc="4200904456" seo="true" mt="1509590147778" redirect="true"/>
+  <file name="members.html" crc="3808572394" seo="true" mt="1509590147778" redirect="true"/>
+  <file name="events.html" crc="4145646367" seo="true" mt="1509590147778" redirect="true"/>
+  <file name="contact-us.html" crc="422528951" seo="true" mt="1509590147778" redirect="true"/>
+  <file name="upcoming-events.html" crc="4071460767" seo="true" mt="1509590147778" redirect="true"/>
+  <file name="past-events.html" crc="3927915663" seo="true" mt="1509590147778" redirect="true"/>
+  <file name="gta-members.html" crc="3775905253" seo="true" mt="1509590147778" redirect="true"/>
+  <file name="old-ben-s-worldwide.html" crc="3763138062" seo="true" mt="1509590147778" redirect="true"/>
 </manifest>
